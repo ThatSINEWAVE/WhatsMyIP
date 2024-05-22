@@ -4,6 +4,8 @@
 
 WhatsMyIP is a simple web application that allows users to quickly find out their IP address and related information such as hostname, city, region, country, and more.
 
+![WhatsMyIP](https://github.com/ThatSINEWAVE/WhatsMyIP/assets/133239148/02e56dde-3b49-4ef5-843b-86724aa56b74)
+
 </div>
 
 ## Usage
